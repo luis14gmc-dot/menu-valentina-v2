@@ -1,1 +1,53 @@
 <h1>YA FUNCIONA 🚀</h1>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Menú Valentina</title>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #111;
+      color: white;
+      text-align: center;
+      padding: 50px;
+    }
+
+    h1 {
+      font-size: 40px;
+      margin-bottom: 10px;
+    }
+
+    p {
+      font-size: 20px;
+      color: #ccc;
+    }
+
+    .card {
+      background: #1e1e1e;
+      padding: 20px;
+      margin: 20px auto;
+      width: 300px;
+      border-radius: 10px;
+    }
+  </style>
+
+</head>
+<body>
+
+  <h1>Menú Valentina 🍽️</h1>
+  <p>Bienvenido</p>
+
+  <div class="card">
+    <h2>Chilaquiles</h2>
+    <p>$120 MXN</p>
+  </div>
+
+  <div class="card">
+    <h2>Agua de Jamaica</h2>
+    <p>$45 MXN</p>
+  </div>
+
+</body>
+</html>
